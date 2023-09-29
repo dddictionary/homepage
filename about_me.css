@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-image: url(images/main-page.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 100vh;
+}
+
+#title{
+    color: aliceblue;
+}
+
+.intro{
+    color: white;
+}
+
+#snow{
+    padding: 0;
+    border: 50px solid transparent;
+    margin: 0;
+}
